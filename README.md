@@ -4,10 +4,10 @@ I'm a <em>Software Developer</em> 💻
 
 <br>
 
-[<kbd> <br> Title <br> </kbd>][Link]
+[<kbd> <br> Title <br> </kbd>][Link]
 
 <br>
 
 <!------------------------------->
 
-[Link]: # 'https://github.com/BryanGuti'
+[Link]: https://github.com/BryanGuti
