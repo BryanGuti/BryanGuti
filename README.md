@@ -2,4 +2,4 @@
 I'm a <em>Software Developer</em> 💻
 </h1>
 
-[<kbd> <br/> Github <br/> </kbd>][https://github.com/BryanGuti]
+[<kbd> Github </kbd>][https://github.com/BryanGuti]
