@@ -10,4 +10,4 @@ I'm a <em>Software Developer</em> 💻
 
 <!------------------------------->
 
-[Link]: https://github.com/BryanGuti
+[Link]: # 'https://github.com/BryanGuti'
