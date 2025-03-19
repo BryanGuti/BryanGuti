@@ -2,9 +2,9 @@
 I'm a <em>Software Developer</em> 💻
 </h1>
 
-<br>
+<br>b
 
-[<kbd>    <br>    GITHUB    <br>    </kbd>][Link]
+[<kbd> <br> **GITHUB** <br> </kbd>][Link]
 
 <br>
 
