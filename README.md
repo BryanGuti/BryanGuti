@@ -2,4 +2,8 @@
 I'm a <em>Software Developer</em> 💻
 </h1>
 
+<br>
+
 [<kbd> <br> Title <br> </kbd>][Link]
+
+<br>
