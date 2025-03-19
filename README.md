@@ -4,7 +4,7 @@ I'm a <em>Software Developer</em> 💻
 
 <br>
 
-[<kbd>  <br>  **GITHUB**  <br>  </kbd>][Link]
+[<kbd>  <br>  **GITHUB**  <br>  </kbd>][https://github.com/Bryanguti]
 
 <br>
 
