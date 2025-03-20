@@ -15,7 +15,7 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 <br/>
 
-[<kbd> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> <br> **JavaScript** <br> </kbd>][jsLink]
+[<kbd align="center"> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> <br> **JavaScript** <br> </kbd>][jsLink]
 [<kbd> <br> <img src="icons/typescript.png" title="TypeScript" alt="TypeScript logo" width="32"/> <br> **TypeScript** <br> </kbd>][typescriptLink]
 [<kbd> <br> <img src="icons/css-3.png" title="CSS" alt="CSS logo" width="32"/> <br> **CSS** <br> </kbd>][cssLink]
 [<kbd> <br> <img src="icons/html-5.png" title="HTML" alt="HTML logo" width="32"/> <br> **HTML** <br> </kbd>][htmlLink]
