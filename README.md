@@ -39,6 +39,7 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 <br/>
 
 [<kbd> <br> <img src="icons/github.png" title="Github" alt="Github logo" width="32"/> **Github** <br> </kbd>][githubLink]
+[<kbd> <br> <img src="icons/linkedin.png" title="LinkedIn" alt="LinkedIn logo" width="32"/> **LinkedIn** <br> </kbd>][linkedinLink]
 
 <!-------------------------------->
 <!--------------Links------------->
@@ -53,6 +54,7 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 [npmLink]: https://docs.npmjs.com
 [gitLink]: https://git-scm.com/doc
 [githubLink]: https://github.com/BryanGuti
+[linkedinLink]: https://github.com/BryanGuti
 
 <!-------------------------------->
 
@@ -74,3 +76,4 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 <a href="https://www.flaticon.com/free-icons/npm" title="npm icons">Npm icons created by pocike - Flaticon</a>
 <a target="_blank" href="https://icons8.com/icon/20906/git">Git</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <a target="_blank" href="https://icons8.com/icon/iEBcQcM9rnZ9/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
