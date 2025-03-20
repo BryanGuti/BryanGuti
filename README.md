@@ -38,8 +38,8 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 <br/>
 
-[<kbd> <br> <img src="icons/github.png" title="Github" alt="Github logo" width="32"/> **Github** <br> </kbd>][githubLink]
-[<kbd> <br> <img src="icons/linkedin.png" title="LinkedIn" alt="LinkedIn logo" width="32"/> **LinkedIn** <br> </kbd>][linkedinLink]
+[<kbd align="center"> <br> <img src="icons/github.png" title="Github" alt="Github logo" width="32"/> <br><br> **Github** <br> </kbd>][githubLink]
+[<kbd align="center"> <br> <img src="icons/linkedin.png" title="LinkedIn" alt="LinkedIn logo" width="32"/> <br><br> **LinkedIn** <br> </kbd>][linkedinLink]
 
 <!-------------------------------->
 <!--------------Links------------->
