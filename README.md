@@ -1,25 +1,29 @@
-<h1 align="center"> Hi! I'm <em>Bryan Gutierrez</em> 🙋🏻‍♂️<br/>
-I'm a <em>Software Developer</em> 💻
+<h1 align="left">
+  <img src="icons/code.png" title="code" alt="computer image" align="right"  width="72"/>
+  <img src="icons/coding-language.png" title="programming languages" alt="programming languages" align="right"  width="72"/>
+  Hi! I'm <em>Bryan Gutierrez</em> 🙋🏻‍♂️<br/>
+  I'm a <em>Software Developer</em> 💻
 </h1>
 
+I am from Bolivia. I like to learn new things every day. The **software design and development** are things I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
+
+---
+
+## Programming Languages I code with
+
+<br>
+
+[<kbd> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> <br> </kbd>][Link]
 
 <br>
 
 [<kbd> <br> **GITHUB** <br> </kbd>][Link]
 
-<br>
-
-[<kbd> <br> <img src="icons/js.png" title="javascript" width="32"/> <br> </kbd>][Link]
-
----
-
-I am from Bolivia. I like to learn new things every day. The **software design and development** are things I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
-
-----
-
-## Programming Languages I code with
-
-
-<!------------------------------->
+<!-------------------------------->
+<!--------------Links------------->
 
 [Link]: https://github.com/BryanGuti
+
+<!-------------------------------->
+
+<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
