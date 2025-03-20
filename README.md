@@ -7,11 +7,11 @@
 
 <br/>
 
-I am from La Paz, Bolivia. I like to learn new things every day. The **software design and development** are activities I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
+I am from La Paz, Bolivia. I enjoy learning new things every day. **Software design and development** are activities I like to do, and **web development** is my favorite field. I love **GNU/Linux**, and my favorite distribution is **Debian**.
 
 ---
 
-## Languages I code with 🖥️
+## Languages I Code With 🖥️
 
 <br/>
 
@@ -24,7 +24,7 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 ---
 
-## Technologies I use for development 🛠️
+## Technologies I Use For Development 🛠️
 
 <br/>
 
@@ -34,7 +34,7 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 ---
 
-## My social media so you can contact me 📱
+## Connect With Me 📱
 
 <br/>
 
@@ -60,7 +60,7 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 ---
 
-## Sources I get the icons from 🔗
+## Icon Sources 🔗
 
 <br/>
 
