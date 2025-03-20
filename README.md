@@ -59,4 +59,4 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 <a href="https://www.flaticon.com/free-icons/css" title="css icons">Css icons created by Pixel perfect - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/python" title="python icons">Python icons created by Freepik - Flaticon</a>
 <a target="_blank" href="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo">mysql</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/E2KVOMc77Geo/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/iEBcQcM9rnZ9/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
