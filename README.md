@@ -17,11 +17,7 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 
 [<kbd> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> **JavaScript** <br> </kbd>][jsLink]
 
-<br/>
-
 [<kbd> <br> <img src="icons/css-3.png" title="CSS" alt="CSS logo" width="32"/> **CSS** <br> </kbd>][cssLink]
-
-<br/>
 
 [<kbd> <br> <img src="icons/html-5.png" title="HTML" alt="HTML logo" width="32"/> **HTML** <br> </kbd>][htmlLink]
 
