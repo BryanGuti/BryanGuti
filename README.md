@@ -16,11 +16,11 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 <br/>
 
 [<kbd align="center"> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> <br> **JavaScript** <br> </kbd>][jsLink]
-[<kbd> <br> <img src="icons/typescript.png" title="TypeScript" alt="TypeScript logo" width="32"/> <br> **TypeScript** <br> </kbd>][typescriptLink]
-[<kbd> <br> <img src="icons/css-3.png" title="CSS" alt="CSS logo" width="32"/> <br> **CSS** <br> < kbd>][cssLink]
-[<kbd> <br> <img src="icons/html-5.png" title="HTML" alt="HTML logo" width="32"/> <br> **HTML** <br>  /kbd>][htmlLink]
-[<kbd> <br> <img src="icons/python.png" title="Python" alt="Python logo" width="32"/> <br> **Python** <br  </kbd>][pythonLink]
-[<kbd> <br> <img src="icons/mysql.png" title="MySQL" alt="MySQL logo" width="32"/> <br> **MySQL** <br> </kbd>][mysqlLink]
+[<kbd align="center"> <br> <img src="icons/typescript.png" title="TypeScript" alt="TypeScript logo" width="32"/> <br> **TypeScript** <br> </kbd>][typescriptLink]
+[<kbd align="center"> <br> <img src="icons/css-3.png" title="CSS" alt="CSS logo" width="32"/> <br> **CSS** <br> </kbd>][cssLink]
+[<kbd align="center"> <br> <img src="icons/html-5.png" title="HTML" alt="HTML logo" width="32"/> <br> **HTML** <br> </kbd>][htmlLink]
+[<kbd align="center"> <br> <img src="icons/python.png" title="Python" alt="Python logo" width="32"/> <br> **Python** <br </kbd>][pythonLink]
+[<kbd align="center"> <br> <img src="icons/mysql.png" title="MySQL" alt="MySQL logo" width="32"/> <br> **MySQL** <br> </kbd>][mysqlLink]
 
 ---
 
