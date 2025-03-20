@@ -13,25 +13,38 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 
 ---
 
-## Programming Languages I code with
+## Programming Languages I code with ⌨️
 
-<br>
+<br/>
 
-[<kbd> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> **JavaScript** <br> </kbd>][Link]
+[<kbd> <br> <img src="icons/js.png" title="JavaScript" alt="JavaScript logo" width="32"/> **JavaScript** <br> </kbd>][jsLink]
 
-<br>
+<br/>
+
+---
+
+## Technologies I use for development 🛠️
+
+<br/>
 
 [<kbd> <br> **GITHUB** <br> </kbd>][Link]
+
+<br/>
 
 <!-------------------------------->
 <!--------------Links------------->
 
+[jsLink]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Link]: https://github.com/BryanGuti
 
 <!-------------------------------->
 
 ---
 
-## Sources I get the icons from
+## Sources I get the icons from 🔗
+
+<br/>
 
 <a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a>
+
+<br/>
