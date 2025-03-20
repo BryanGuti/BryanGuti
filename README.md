@@ -7,7 +7,7 @@
 
 <br/>
 
-I am from Bolivia. I like to learn new things every day. The **software design and development** are things I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
+I am from La Paz, Bolivia. I like to learn new things every day. The **software design and development** are activities I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
 
 ---
 
