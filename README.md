@@ -28,9 +28,9 @@ I am from La Paz, Bolivia. I like to learn new things every day. The **software 
 
 <br/>
 
-[<kbd> <br> <img src="icons/node-js.png" title="NodeJS" alt="NodeJS logo" width="32"/> **NodeJS** <br> </kbd>][nodejsLink]
-[<kbd> <br> <img src="icons/programing.png" title="NPM" alt="NPM logo" width="32"/> **NPM** <br> </kbd>][npmLink]
-[<kbd> <br> <img src="icons/git.png" title="Git" alt="Git logo" width="32"/> **Git** <br> </kbd>][gitLink]
+[<kbd align="center"> <br> <img src="icons/node-js.png" title="NodeJS" alt="NodeJS logo" width="32"/> <br><br> **NodeJS** <br> </kbd>][nodejsLink]
+[<kbd align="center"> <br> <img src="icons/programing.png" title="NPM" alt="NPM logo" width="32"/> <br><br> **NPM** <br> </kbd>][npmLink]
+[<kbd align="center"> <br> <img src="icons/git.png" title="Git" alt="Git logo" width="32"/> <br><br> **Git** <br> </kbd>][gitLink]
 
 ---
 
