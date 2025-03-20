@@ -9,11 +9,9 @@
 
 I am from Bolivia. I like to learn new things every day. The **software design and development** are things I like to do. **Web development** is my favorite area. I love **GNU/Linux** and my favorite distro is **Debian**.
 
-<br/>
-
 ---
 
-## Programming Languages I code with ⌨️
+## Programming Languages I code with 🖥️
 
 <br/>
 
@@ -21,13 +19,19 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 
 <br/>
 
+[<kbd> <br> <img src="icons/css-3.png" title="CSS" alt="CSS logo" width="32"/> **CSS** <br> </kbd>][cssLink]
+
+<br/>
+
+[<kbd> <br> <img src="icons/html-5.png" title="HTML" alt="HTML logo" width="32"/> **HTML** <br> </kbd>][htmlLink]
+
 ---
 
 ## Technologies I use for development 🛠️
 
 <br/>
 
-[<kbd> <br> **GITHUB** <br> </kbd>][Link]
+[<kbd> <br> **GITHUB** <br> </kbd>][githubLink]
 
 <br/>
 
@@ -35,7 +39,9 @@ I am from Bolivia. I like to learn new things every day. The **software design a
 <!--------------Links------------->
 
 [jsLink]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Link]: https://github.com/BryanGuti
+[cssLink]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[htmlLink]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[githubLink]: https://github.com/BryanGuti
 
 <!-------------------------------->
 
